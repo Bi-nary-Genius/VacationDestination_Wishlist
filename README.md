@@ -1,1 +1,1 @@
-# 24-06-JavaScriptProject-Team2
+# VacationDestination-Wishlist
